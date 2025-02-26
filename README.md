@@ -1,5 +1,7 @@
 python 3 required
 
+install python 3
+
 python ide required 
 
 install IDLE 
